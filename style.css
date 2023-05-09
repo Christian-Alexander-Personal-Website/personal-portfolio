@@ -435,3 +435,10 @@ footer i {
     text-align: center;
   }
 }
+
+.topic-section {
+  background-color: var(--main-blue);
+  color: var(--main-white);
+  padding: 20px;
+  margin-bottom: 20px;
+}
